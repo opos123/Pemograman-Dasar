@@ -4,16 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e10317f-df48-4da6-9a99-f010396ffce9" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise11_DisplayThreeMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/latihan/Listing11_Welcom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/ujian/Soal1.java" afterDir="false" />
+    <list default="true" id="2e10317f-df48-4da6-9a99-f010396ffce9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise12_DisplayFiveMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise13_DisplayAPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise14_PrintATable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise15_ComputeExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise16_SummationOfASeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise17_Approximate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise18_AreaAndPerimeterOfACircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise19_AreaAndPerimeterOfARectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise20_AverageSpeedInMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise21_PopulationProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise22_AverageSpeedInKilometers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise23_Algebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise210_Sience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise21_ConvertCelciusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise22_ComputeTheVolumeOfACylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise23_ConvertFeetIntoMester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise24_ConvertPoundsIntoKilograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise25_FinancialAplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise26_SumTheDigitsInAnInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise27_FindTheNumberOfYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise28_CurrentTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise29_physics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Execise17_ScissorRockPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise01_SolveQuadraticEquations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise02_addThreeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise03_LinierEquations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise04_RandomMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise11_FindTheNumberOfDaysInAMont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise12_PalindromeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise13_FinancialAplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise14_HeadsOrTails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise15_Lottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise16_RandomPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise18_CashOfShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise19_ComputerThePerimeterOfATriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise20_WindChilTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise21_DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise22_Geometri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise23_GeometriPointInARectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise24_GamePickACard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise25_IntersectingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise26_UseTheOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise27_PointInTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise28_TwoRectangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise01_AssignGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise02_ReverseTheNumbersEntered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise03_CountOccurrenceOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise04_AnalyzeScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise05_PrintDistinct_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise07_CountSingleDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise08_AverageAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise09_FindTheSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise10_FindTheIndexOfTheSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/exercise/Exercise11_ComputeDeviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/RandomCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_array/latihan/listing9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise11_DisplayThreeMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise11_DisplayThreeMessages.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +106,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC-A02/Documents/nizar/NizarRahmatullah&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Exercise04_AnalyzeScores">
+    <configuration name="Exercise02_ReverseTheNumbersEntered" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_array.exercise.Exercise02_ReverseTheNumbersEntered" />
+      <module name="ItbaRidwanulHaq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_array.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise04_AnalyzeScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_array.exercise.Exercise04_AnalyzeScores" />
+      <module name="ItbaRidwanulHaq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_array.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_array.latihan.listing2" />
+      <module name="ItbaRidwanulHaq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_array.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listing4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_array.latihan.listing4" />
+      <module name="ItbaRidwanulHaq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_array.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listing5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_array.latihan.listing5" />
+      <module name="ItbaRidwanulHaq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_array.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise04_AnalyzeScores" />
+        <item itemvalue="Application.Exercise02_ReverseTheNumbersEntered" />
+        <item itemvalue="Application.listing2" />
+        <item itemvalue="Application.listing5" />
+        <item itemvalue="Application.listing4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +200,21 @@
       <option name="presentableId" value="Default" />
       <updated>1673583676346</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1673586290265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673586290266</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1673586377896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673586377896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -77,5 +228,39 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter1_introduction/exercise/Exercise21_PopulationProjection.java</url>
+          <line>3</line>
+          <properties class="chapter1_introduction.exercise.Exercise21_PopulationProjection" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise28_CurrentTime.java</url>
+          <line>5</line>
+          <properties class="chapter2_elementary_programing.exercise.Exercise28_CurrentTime" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter2_elementary_programing/exercise/Exercise28_CurrentTime.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chapter3_selection/exercise/Exercise01_SolveQuadraticEquations.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
